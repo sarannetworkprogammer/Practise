@@ -1,0 +1,53 @@
+
+id is unique given for each element
+
+class is like if we use it as a group of elements
+
+
+specificity 
+
+ 1.inline styling literraly putting attached to element
+ 2.id : unique way to identify element
+ 3.class: next precedence
+ 4.type: least specific 
+
+ css selectors inline, id class, type div ,
+
+ multiple eletments 
+
+ Descendant selectors:
+
+ SAAS
+
+ extension to css more power ful faster an remvoe repeationt 
+
+ one of key feature an variables
+    
+
+
+Responsive design 
+
+View port: visual part of the screen many mobile device you can see every thing just shrink to 
+
+adapt to different screens grow a little bit
+add little line of code to html that 
+
+
+
+Media Queries:
+    responsive.html
+    <h1> 
+
+
+flex box 
+
+mobile responsive design
+
+what kind of device but it turns out exits 
+
+scroll through it
+
+Boot strap:
+
+one of styling library for css:
+
